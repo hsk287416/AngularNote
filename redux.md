@@ -1,11 +1,7 @@
 # 1. 引入依赖
 
 ```text
-npm i -S @ngrx/core
-npm i -S @ngrx/effects
-npm i -S @ngrx/router-store
-npm i -S @ngrx/store
-npm i -S @ngrx/store-devtools
+npm i -S @ngrx/core @ngrx/effects @ngrx/router-store @ngrx/store @ngrx/store-devtools
 ```
 
 # 2. @ngrx/store的用法
